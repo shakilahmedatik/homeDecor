@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Velvet Sofa",
+    "category": "Furniture",
+    "price": 520,
+    "material": "Velvet, Wood",
+    "dimensions": "84 x 35 x 33 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/tM7pbxwx/Modern-Velvet-Sofa.jpg",
+    "description": "A cozy velvet sofa with a modern design, ideal for living rooms."
+  },
+  {
+    "id": 2,
+    "name": "Wooden Coffee Table",
+    "category": "Furniture",
+    "price": 230,
+    "material": "Oak Wood",
+    "dimensions": "40 x 22 x 18 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/B29xwj5b/Wooden-Coffee-Table.jpg",
+    "description": "Solid oak coffee table with smooth polish and rounded corners."
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Floor Lamp",
+    "category": "Lighting",
+    "price": 120,
+    "material": "Metal, Fabric",
+    "dimensions": "60 x 12 x 12 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/cS6tVW1v/Minimalist-Floor-Lamp.jpg",
+    "description": "Soft ambient light with a clean, modern look for any corner."
+  },
+  {
+    "id": 4,
+    "name": "Industrial Pendant Light",
+    "category": "Lighting",
+    "price": 180,
+    "material": "Iron",
+    "dimensions": "15 x 15 x 12 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/mFzfzj8x/Industrial-Pendant-Light.jpg",
+    "description": "Rustic industrial pendant light perfect for dining areas."
+  },
+  {
+    "id": 5,
+    "name": "Abstract Wall-Art Canvas",
+    "category": "Wall-Art",
+    "price": 95,
+    "material": "Canvas, Acrylic",
+    "dimensions": "30 x 40 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/whmfKyvZ/Abstract-Wall-Art-Canvas.jpg",
+    "description": "A hand-painted abstract art piece to elevate your room\u2019s vibe."
+  },
+  {
+    "id": 6,
+    "name": "Nature Landscape Frame",
+    "category": "Wall-Art",
+    "price": 85,
+    "material": "Canvas, Wooden Frame",
+    "dimensions": "28 x 36 in",
+    "stock": false,
+    "image": "https://i.ibb.co.com/bMFCPWW4/Nature-Landscape-Frame.jpg",
+    "description": "Scenic nature view framed in premium wood."
+  },
+  {
+    "id": 7,
+    "name": "Wool Area Rug",
+    "category": "Rugs",
+    "price": 260,
+    "material": "100% Wool",
+    "dimensions": "8 x 10 ft",
+    "stock": true,
+    "image": "https://i.ibb.co.com/DDzxZdW0/Wool-Area-Rug.jpg",
+    "description": "Handwoven wool rug with geometric patterns."
+  },
+  {
+    "id": 8,
+    "name": "Round Cotton Rug",
+    "category": "Rugs",
+    "price": 150,
+    "material": "Cotton",
+    "dimensions": "6 ft diameter",
+    "stock": true,
+    "image": "https://i.ibb.co.com/Fkx0y6hq/Round-Cotton-Rug.jpg",
+    "description": "Soft cotton rug that fits perfectly in reading corners."
+  },
+  {
+    "id": 9,
+    "name": "Classic Armchair",
+    "category": "Furniture",
+    "price": 320,
+    "material": "Leather, Wood",
+    "dimensions": "36 x 34 x 38 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/LDSXGkMN/Classic-Armchair.jpg",
+    "description": "Elegant leather armchair with classic wooden legs."
+  },
+  {
+    "id": 10,
+    "name": "Wall Mirror with Frame",
+    "category": "Wall-Art",
+    "price": 110,
+    "material": "Glass, Metal Frame",
+    "dimensions": "24 x 36 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/yBZ11W7x/Wall-Mirror-with-Frame.jpg",
+    "description": "Decorative wall mirror that adds brightness and space."
+  },
+  {
+    "id": 11,
+    "name": "Bamboo Pendant Lamp",
+    "category": "Lighting",
+    "price": 160,
+    "material": "Bamboo",
+    "dimensions": "14 x 14 x 10 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/8ts06FR/Bamboo-Pendant-Lamp.jpg",
+    "description": "Eco-friendly bamboo pendant that gives a warm rustic glow."
+  },
+  {
+    "id": 12,
+    "name": "Modern Bookshelf",
+    "category": "Furniture",
+    "price": 410,
+    "material": "Engineered Wood",
+    "dimensions": "70 x 28 x 12 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/0ycx275M/Modern-Bookshelf.jpg",
+    "description": "Spacious modern bookshelf with 5 adjustable shelves."
+  },
+  {
+    "id": 13,
+    "name": "Handcrafted Wall Hanging",
+    "category": "Wall-Art",
+    "price": 75,
+    "material": "Cotton Rope",
+    "dimensions": "28 x 40 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/Q70mQK9S/Handcrafted-Wall-Hanging.jpg",
+    "description": "Beautiful boho-style wall hanging for cozy spaces."
+  },
+  {
+    "id": 14,
+    "name": "Persian Pattern Rug",
+    "category": "Rugs",
+    "price": 320,
+    "material": "Silk Blend",
+    "dimensions": "9 x 12 ft",
+    "stock": true,
+    "image": "https://i.ibb.co.com/8LD3HbNH/Persian-Pattern-Rug.jpg",
+    "description": "Luxurious Persian rug with hand-tufted details."
+  },
+  {
+    "id": 15,
+    "name": "Tripod Standing Lamp",
+    "category": "Lighting",
+    "price": 210,
+    "material": "Wood, Linen Shade",
+    "dimensions": "58 x 16 x 16 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/p74Hdyv/Tripod-Standing-Lamp.jpg",
+    "description": "Contemporary tripod lamp for a minimalist living area."
+  },
+  {
+    "id": 16,
+    "name": "Marble Top Table",
+    "category": "Furniture",
+    "price": 270,
+    "material": "Marble, Iron Base",
+    "dimensions": "24 x 24 x 20 in",
+    "stock": true,
+    "image": "https://i.ibb.co.com/hxYFvcLt/Marble-Top-Table.jpg",
+    "description": "Elegant side table with a white marble top and gold base."
+  }
+]
