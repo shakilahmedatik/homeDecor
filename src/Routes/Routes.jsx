@@ -4,6 +4,7 @@ import Home from '../Pages/Home'
 import MainLayout from '../Layouts/MainLayout'
 import ErrorPage from '../Pages/ErrorPage'
 import Wishlist from '../Pages/Wishlist'
+import ProductDetails from '../Pages/ProductDetails'
 
 // named export
 const router = createBrowserRouter([
@@ -16,16 +17,18 @@ const router = createBrowserRouter([
       {
         index: true,
         Component: Home,
-        loader: () => fetch('./furnitureData.json'),
       },
       {
         path: '/products',
         element: <Products />,
-        loader: () => fetch('./furnitureData.json'),
       },
       {
         path: '/wishlist',
         element: <Wishlist />,
+      },
+      {
+        path: '/product/:id',
+        element: <ProductDetails />,
       },
     ],
   },
