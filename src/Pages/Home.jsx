@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router'
 import ProductCard from '../Components/ProductCard'
 import useProducts from '../hooks/useProducts'
+import SkeletonLoader from '../Components/SkeletonLoader'
 
 const Home = () => {
   const { loading, error, products } = useProducts()
@@ -16,11 +17,15 @@ const Home = () => {
           See All Products
         </Link>
       </div>
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
-        {featuredProducts.map(product => (
-          <ProductCard key={product.id} product={product} />
-        ))}
-      </div>
+      {loading ? (
+        <SkeletonLoader />
+      ) : (
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+          {featuredProducts.map(product => (
+            <ProductCard key={product.id} product={product} />
+          ))}
+        </div>
+      )}
     </div>
   )
 }
